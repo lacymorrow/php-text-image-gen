@@ -6,7 +6,7 @@ Uses an uploaded font to change text into an image. Allows for multiple customiz
 
 ### Usage
 
-`http://www.yourdomain.com/text.php?s=11&text=hello&font=TIMES`
+`http://www.yourdomain.com/text-image-gen.php?s=11&text=hello&font=TIMES`
 
 Supply any `.ttf` font files.
 
